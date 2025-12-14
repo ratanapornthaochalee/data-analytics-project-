@@ -1,4 +1,5 @@
-![Average Age by CHD Risk](chd_risk_age.png)
+![image](https://github.com/username/repo/assets/...)
+
 
 
 # 🫀 Heart Disease Risk Analytics: Insights & Prevention Guidelines
