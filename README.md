@@ -1,3 +1,4 @@
+![Average Age by CHD Risk](Final_Presentation.pptx_page-0011.jpg)
 
 
 
