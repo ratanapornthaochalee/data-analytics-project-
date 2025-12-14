@@ -1,11 +1,3 @@
-xychart-beta
-    title "Average Age by CHD Risk"
-    x-axis ["No Risk", "Risk"]
-    y-axis "Average Age" 0 --> 60
-    bar [49, 54]
-
-
-
 # 🫀 Heart Disease Risk Analytics: Insights & Prevention Guidelines
 
 ## 📌 Introduction
