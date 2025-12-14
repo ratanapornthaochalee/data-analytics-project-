@@ -50,6 +50,7 @@ The variables are categorized into four main groups:
 | | `glucose` | Glucose level |
 
 ---
+<img width="999" height="647" alt="Screenshot 2568-12-14 at 15 20 37" src="https://github.com/user-attachments/assets/5be6f094-2cfb-4c27-84b1-ab299d0ca238" />
 
 ## 🧹 Data Cleaning and Preprocessing
 
