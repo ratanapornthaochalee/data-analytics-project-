@@ -1,10 +1,4 @@
-## Findings and Insights
 
-![Average Age by CHD Risk](images/avg_age_chd_risk.png)
-
-**Key Insight:**  
-Age shows a clear association with ten-year CHD risk.  
-Participants in the risk group are, on average, older than those in the no-risk group.
 
 
 
