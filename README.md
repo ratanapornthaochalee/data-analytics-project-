@@ -1,4 +1,10 @@
-![image](https://github.com/username/repo/assets/...)
+## Findings and Insights
+
+![Average Age by CHD Risk](images/chd_risk_age.png)
+
+**Insight:**  
+The CHD risk group shows a consistently higher average age compared to the no-risk group.
+
 
 
 
