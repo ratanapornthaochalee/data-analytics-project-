@@ -1,9 +1,3 @@
-![Average Age by CHD Risk](Final_Presentation.pptx_page-0011.jpg)
-
-
-
-
-
 # 🫀 Heart Disease Risk Analytics: Insights & Prevention Guidelines
 
 ## 📌 Introduction
@@ -93,6 +87,9 @@ her systolic blood pressure?
 ---
 
 ## 📊 Findings & Insights: Age Impact on CHD Risk
+
+![Average Age by CHD Risk](Final_Presentation.pptx_page-0011.jpg)
+
 
 ### ❓ Key Question  
 **Does age have a significant impact on ten-year CHD risk?**
